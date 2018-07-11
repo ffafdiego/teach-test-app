@@ -1,0 +1,8 @@
+{
+  "name": "teach-test-app",
+  "app_id": "b3d348be",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
